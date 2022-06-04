@@ -2,7 +2,7 @@ import { Container, Links, Content } from "./styles";
 
 import { Header } from "../../components/Header";
 import { Button } from "../../components/Button";
-import { ButtonTex } from "../../components/ButtonText";
+import { ButtonText } from "../../components/ButtonText";
 import { Section } from "../../components/Section";
 
 import { Tag } from "../../components/Tag";
@@ -13,7 +13,7 @@ export function Details() {
       <Header />
       <main>
         <Content>
-          <ButtonTex title="Excluir nota" />
+          <ButtonText title="Excluir nota" />
           <h1>Introdução ao React</h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam luctus

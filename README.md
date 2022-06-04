@@ -91,24 +91,51 @@
 
 - Finalizando Detalhes - 09:15 - Nessa aula finalizaremos a página de detalhes do projeto adicionando botões e alguns outros elementos.
 
-- Aplicando Grid na Home - 08:18
-- Logotipo - 02:09
-- Filtros - 03:38
-- Botão Criar Nota - 01:46
-- Input - 08:55
-- Componente de Notas - 10:00
-- Estrutura da SignIn - 02:07
-- Formulário da SignIn - 07:33
-- Utilizando Imagens - 02:32
-- SignUp - 04:38
-- Profile - 08:27
-- Avatar do usuário - 08:02
-- Interface New - 02:49
-- Header da New - 02:47
-- TextArea - 03:36
-- Componente NoteItem - 04:22
-- Estilizando o NoteItem - 08:04
-- Finalizando o New - 03:41
-- Rotas - 08:56
-- Navegação - 07:29
+- Aplicando Grid na Home - 08:18 - Nessa aula daremos início a página Home utilizando `display: grid`
+
+- Logotipo - 02:09 - Nessa aula faremos a estilização do logotipo do projeto seguindo o layout do Figma
+
+- Filtros - 03:38 - Nessa aula faremos o menu de filtros do projeto destacando a em laranja a tag que estiver selecionada.
+
+- Botão Criar Nota - 01:46 - Nessa aula faremos o botão Criar Nota utilizando react-icons
+
+- Input - 08:55 - Nessa aula faremos o componente <Input/> adicionando os respectivos ícones onde for necessário.
+
+- Componente de Notas - 11:26 - Nessa aula faremos o Componente Notas e finalizaremos a página Home.
+
+- Entendendo o Map - 12:07
+- Estrutura da SignIn - 02:16 - Nessa aula começaremos a montar a estrutura de Login do projeto.
+
+- Formulário da SignIn - 07:33 - Nessa aula faremos o formulário de login utilizando o pacote de ícones `React Icons` e estilizaremos com `styled-components`
+
+- Utilizando Imagens - 02:32 - Nessa aula adicionaremos o background na página de login do nosso projeto.
+
+  - Link para download da imagem:[background.png](https://storage.googleapis.com/golden-wind/explorer/description-assets/nivel-09/background.png)
+
+- Importação de Imagem - 03:53
+
+- SignUp - 04:29 - Nessa aula reaproveitaremos a página de Login (SignIn) para desenvolveremos a página de Cadastrar (SignUp)
+
+- Profile - 08:24 - Nessa aula faremos a página de perfil do nosso projeto contendo a foto e formulários para cadastrar nome, e-mail e senha.
+
+- Avatar do usuário - 08:02 - Nessa aula faremos o componente de Avatar do usuário e o botão de upload de imagem para futuramente conseguirmos substituir o avatar.
+
+- Interface New - 02:57 - Nessa aula faremos a estrutura para cadastrar novas notas em nosso projeto.
+
+- Header da New - 02:47 - Nessa aula faremos o componente Header para ser exibido ao cadastrarmos novas notas.
+
+- TextArea - 03:36 - Nessa aula faremos um novo componente do tipo TextArea para que o usuário consiga escrever várias linhas ao adicionar uma nova nota.
+
+- Componente NoteItem - 04:22 - Nessa aula faremos um novo componente chamado NoteItem com a propriedade readonly
+
+- Estilizando o NoteItem - 08:04 - Nessa aula faremos a estilização do componente criado na aula anterior, o NoteItem
+
+- Finalizando o New - 03:48 - Nessa aula finalizaremos a página de criar nova nota adicionando as tags e o botão de salvar na interface.
+
+- Rotas - 08:56 - Nessa aula utilizaremos a lib chamada React Router para fazermos as navegações funcionarem corretamente dentro do projeto.
+
+  - [React Router: Declarative Routing for React](https://v5.reactrouter.com/web/guides/quick-start)
+
+- Navegação - 07:01 - Nessa aula configuraremos as rotas para que a navegação funcione corretamente.
+
 - Encerramento - 00:31
